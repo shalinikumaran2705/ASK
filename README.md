@@ -4,6 +4,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
+Any python software
 # Program
 # ASK
 ```
@@ -118,7 +119,4 @@ plt.show()
 <img width="989" height="985" alt="image" src="https://github.com/user-attachments/assets/5a855f20-52e9-41bf-82e0-cc736d7ec0a8" />
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus, the ASK and FSK were performed using Colab
