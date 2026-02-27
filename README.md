@@ -7,7 +7,7 @@ Write a simple Python program for the modulation and demodulation of ASK and FSK
 Any python software
 # Program
 # ASK
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -59,7 +59,7 @@ plt.show()
 
 ```
 # FSK
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
